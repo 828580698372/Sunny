@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @828580698372
+- 👋 Hi, I’m @Rupesh
 - 👀 I’m interested in web developer 
 - 🌱 I’m currently learning btech in computer science engineering (data science)
 - 💞️ I’m looking to collaborate on ...
